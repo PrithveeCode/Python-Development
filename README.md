@@ -5,7 +5,7 @@
   <p align="center">
     Collection of Python projects, scripts, and examples
     <br />
-    <a href="https://github.com/PrithveeCode/Python"><strong>Explore the repository »</strong></a>
+    <a href="https://github.com/PrithveeCode/Python-Development"><strong>Explore the repository »</strong></a>
     <br />
     <br />
   </p>
