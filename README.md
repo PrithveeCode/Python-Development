@@ -38,7 +38,7 @@ To get started with the repository, follow the instructions below.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/python-repository.git
+   git clone https://github.com/pri-cd/Python-Development.git
    ```
 
 2. Change into the project directory:
