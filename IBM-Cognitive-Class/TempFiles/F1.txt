@@ -1,2 +1,0 @@
-This is a temporary file used for Python file handling examples.
-You can add more lines or modify this content as needed.
